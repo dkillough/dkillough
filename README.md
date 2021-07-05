@@ -1,16 +1,29 @@
-### Hi there 👋
+# Daniel "Kiiro" Killough
+they/he 
 
-<!--
-**dkillough/dkillough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ut computer science student
 
-Here are some ideas to get you started:
+additional studies in digital arts, social media, and immersive technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interested in pursuing a master's in human-computer interaction
+
+## Current project queue:
+
+- Software Engineering Support @ Tabula Rasa Healthcare (Summer 2021 Internship)
+- Engineering Physics II (Summer 2021 coursework)
+- SolAR Run, a skin cancer prevention awareness project for the 2020-2021 President's Award for Global Learning 
+- President, Longhorn Gaming (2021-2022 Long Session)
+
+## Next up project queue
+
+- Redo [personal website](https://dkillough.com) in something cleaner than Google Sites
+- Self-teach Japanese (Next goal: Finish Tae Kim's guide)
+- Self-teach Drums (Next goal: New samples into DAW, get better at desyncing)
+
+## Contact me
+
+Email: contact@dkillough.com
+
+Discord: Kiiro#0001
+
+Initial response time via Discord usually same day unless on Do Not Disturb
