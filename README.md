@@ -7,7 +7,7 @@ additional studies in digital arts, social media, and immersive technologies
 
 interested in pursuing a master's in human-computer interaction
 
-## Current project queue:
+## Current project queue
 
 - Software Engineering Support @ Tabula Rasa Healthcare (Summer 2021 Internship)
 - Engineering Physics II (Summer 2021 coursework)
