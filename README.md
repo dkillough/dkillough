@@ -1,5 +1,5 @@
 # Daniel "Kiiro" Killough
-they/he 
+(they/he)
 
 ut computer science student
 
@@ -16,7 +16,7 @@ interested in pursuing a master's in human-computer interaction
 
 ## Next up project queue
 
-- Redo [personal website](https://dkillough.com) in something cleaner than Google Sites
+- Redo [personal website](https://dkillough.com) in something cleaner than Google Sites (probably HTML5Up)
 - Self-teach Japanese (Next goal: Finish Tae Kim's guide)
 - Self-teach Drums (Next goal: New samples into DAW, get better at desyncing)
 
@@ -27,3 +27,7 @@ Email: contact@dkillough.com
 Discord: Kiiro#0001
 
 Initial response time via Discord usually same day unless on Do Not Disturb
+
+
+## Other code
+Can primarily be found on CareKinesis GitLab
