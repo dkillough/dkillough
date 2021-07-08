@@ -1,5 +1,5 @@
 # Daniel "Kiiro" Killough
-(they/he)
+(they/them or he/him)
 
 ut computer science student
 
