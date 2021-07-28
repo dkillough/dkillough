@@ -1,7 +1,7 @@
 # Daniel "Kiiro" Killough
 (they/them or he/him)
 
-ut computer science student
+third year ut computer science student
 
 additional studies in digital arts, social media, and immersive technologies
 
