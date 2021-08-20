@@ -1,6 +1,6 @@
 # Daniel "Kiiro" Killough
 
-third year ut computer science student
+third year computer science student at the university of texas at austin (ut)
 
 additional studies in digital arts, social media, and immersive technologies
 
