@@ -9,7 +9,7 @@ interested in pursuing a master's in human-computer interaction
 
 ## Current project queue
 
-- SolAR Run, a skin cancer prevention awareness project that won the 2020-2021 President's Award for Global Learning 
+- SolAR Run, a skin cancer prevention awareness project that won the 2020-2021 UT President's Award for Global Learning 
 - President, Longhorn Gaming (2021-2022 Long Session)
 - Fall 21 Coursework
 
