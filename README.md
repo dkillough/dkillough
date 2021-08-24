@@ -2,7 +2,7 @@
 
 third year computer science student at the university of texas at austin (ut)
 
-additional studies in digital arts, social media, and immersive technologies
+additional studies in digital arts, social media, and immersive experiences
 
 interested in pursuing a master's in human-computer interaction
 
