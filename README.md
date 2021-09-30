@@ -28,4 +28,4 @@ Initial response time via Discord usually faster than email.
 
 
 ## Other code
-Can primarily be found on CareKinesis GitLab
+Can primarily be found on GitLab, both [my own](https://gitlab.com/dkillough) and CareKinesis'.
