@@ -4,7 +4,7 @@ third year computer science student at the university of texas at austin (ut)
 
 additional studies in digital arts, social media, and immersive experiences
 
-planning to pursue a master's in human-computer interaction to work in UX
+planning to pursue a master's in human-computer interaction and work in UX
 
 #### [My GitLab](https://gitlab.com/dkillough)
 
