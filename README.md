@@ -6,6 +6,7 @@ additional studies in digital arts, social media, and immersive experiences
 
 interested in pursuing a master's in human-computer interaction
 
+#### [My GitLab](https://gitlab.com/dkillough)
 
 ## Current project queue
 
@@ -14,10 +15,12 @@ interested in pursuing a master's in human-computer interaction
 - [Website](https://dkillough.com) and [Resume](https://docs.google.com/document/d/1U6XMw0wi0wqwd6HF1478pdlLYabMBH9ApHZuqejH4vA/edit?usp=sharing) revisions, again
 - Fall 21 Coursework
 
+
 ## Next up project queue 
 
 - Self-teach Japanese (Next goal: Finish Tae Kim's guide)
 - Self-teach Drums (Next goal: New samples into DAW, get better at desyncing)
+
 
 ## Contact me
 
@@ -26,7 +29,3 @@ Email: contact@dkillough.com
 Discord: Kiiro#0001
 
 Initial response time via Discord usually faster than email.
-
-
-## Other code
-Can primarily be found on GitLab, both [my own](https://gitlab.com/dkillough) and CareKinesis'.
