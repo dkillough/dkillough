@@ -1,15 +1,16 @@
 # Daniel "Kiiro" Killough
 
+### Seeking Summer 2022 XR Development or UX Design Internship.
+
 third year computer science student at the university of texas at austin (ut)
 
 additional studies in digital arts, social media, and immersive experiences
 
-planning to pursue a master's in human-computer interaction and work in UX
+planning to pursue a master's in human-computer interaction
 
 #### [Resume](https://docs.google.com/document/d/1FXz1NcMgJVjqL3nQ0yIsqa_5oouOKkEJ6UOfTG9ajCk/edit?usp=sharing)
 #### [Website](https://dkillough.com/)
 #### [GitLab](https://gitlab.com/dkillough)
-
 
 ## Current project queue
 
@@ -29,5 +30,3 @@ planning to pursue a master's in human-computer interaction and work in UX
 Discord: Kiiro#0001
 
 Email: contact@dkillough.com
-
-Initial response time via Discord usually faster than email.
