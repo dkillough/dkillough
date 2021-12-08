@@ -1,6 +1,6 @@
 # Daniel "Kiiro" Killough
 
-### Seeking Summer 2022 XR Development or UX Design Internship.
+### Seeking Summer 2022 XR Development Internship.
 
 third year computer science student at the university of texas at austin (ut)
 
