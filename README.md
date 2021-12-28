@@ -39,6 +39,8 @@ planning to pursue a master's in human-computer interaction
 - CS 378 Intro to HCI
 - JPN 601 Japanese I
 
+(15 credit hours)
+
 ## Contact me
 
 Discord: Kiiro#0001
