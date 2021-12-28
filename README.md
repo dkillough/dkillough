@@ -15,14 +15,23 @@ planning to pursue a master's in human-computer interaction
 ## Current project queue
 
 - SolAR Run, a skin cancer prevention awareness project that won the 2020-2021 UT President's Award for Global Learning 
+  - [x] Development complete
+  - [x] Implementation in Singapore complete
+  - [x] Implementation in Austin, TX complete 
+  - [ ] Currently recording/compiling assets & footage (me) and editing (Arman) promotional video
+  - [ ] Whitepaper & finding compilation being completed by Neha & Sahar
 - President, Longhorn Gaming (2021-2022 Long Session)
-- Fall 21 Coursework
-
-
-## Next up project queue 
-
-- Self-teach Japanese (Next goal: Finish Tae Kim's guide)
-- Self-teach Drums (Next goal: New samples into DAW, get better at desyncing)
+  - [x] Spring events schedule creation
+  - [ ] Spring events schedule publication
+  - [ ] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
+  - [ ] Enhancing crew culture, resource availability, and transparency across teams
+- Self-teach Japanese
+  - Grammar & vocab: [Tae Kim's Complete Guide](http://guidetojapanese.org/learn/complete/)
+  - Kanji & vocab: [Refold JP1K](https://refold.la/japanese/deck/)
+  - Timed flashcards: [Anki](https://apps.ankiweb.net/index.html)
+   - also registered for JPN 601 in the spring
+- Self-teach Drums
+  - Currently using an Alesis Nitro Mesh electronic kit wired via MIDI -> USB to [Melodics](https://melodics.com) run on my iPad Pro. Maintaining a baseline of 1 lesson/day
 
 
 ## Contact me
