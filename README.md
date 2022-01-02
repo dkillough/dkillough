@@ -36,7 +36,7 @@ planning to pursue a master's in human-computer interaction
 
 - CS 354 [Computer Graphics](https://www.cs.utexas.edu/~theshark/courses/cs354/)
 - CS 331 Algorithms & Complexity
-- CS 378 Intro to HCI
+- CS 378 Intro to Human-Computer Interaction
 - JPN 601 Japanese I
 
 (15 credit hours)
