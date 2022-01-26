@@ -34,9 +34,9 @@ planning to pursue a master's in human-computer interaction
 
 ## Spring 2022 Coursework
 
-- CS 354 [Computer Graphics](https://www.cs.utexas.edu/~theshark/courses/cs354/)
 - CS 331 Algorithms & Complexity
-- CS 378 Intro to Human-Computer Interaction
+- CS 354 [Computer Graphics](https://www.cs.utexas.edu/~theshark/courses/cs354/)
+- CS 378 [Intro to Human-Computer Interaction](https://amypavel.com/teaching/cs378sp22/)
 - JPN 601 Japanese I
 
 (15 credit hours)
