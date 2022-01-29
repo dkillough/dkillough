@@ -22,8 +22,8 @@ planning to pursue a master's in human-computer interaction
   - [ ] Whitepaper & findings compilation & synthesis (Neha & Sahar)
 - President, Longhorn Gaming (2021-2022 Long Session)
   - [x] Spring events schedule creation
-  - [ ] Spring events schedule publication
-  - [ ] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
+  - [x] Spring events schedule publication
+  - [x] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
   - [ ] Enhancing crew culture, resource availability, and transparency across teams
 - Self-teach Japanese
   - Grammar & vocab: [Tae Kim's Complete Guide](http://guidetojapanese.org/learn/complete/)
