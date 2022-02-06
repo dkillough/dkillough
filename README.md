@@ -24,7 +24,9 @@ thinking about pursuing a PhD in human-computer interaction
   - [x] Spring events schedule creation
   - [x] Spring events schedule publication
   - [x] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
+  - [ ] Essentially become HR to resolve drama between teams
   - [ ] Enhancing crew culture, resource availability, and transparency across teams
+  - [ ] Day-to-day emails, direct messages, and resource management
 - Self-teach Japanese (started before Sp22 where I'm taking a class)
   - Grammar & vocab: [Tae Kim's Complete Guide](http://guidetojapanese.org/learn/complete/)
   - Kanji & vocab: [Refold JP1K](https://refold.la/japanese/deck/)
