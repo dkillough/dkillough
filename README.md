@@ -30,7 +30,7 @@ thinking about pursuing a PhD in human-computer interaction
   - Kanji & vocab: [Refold JP1K](https://refold.la/japanese/deck/)
   - Timed flashcards: [Anki](https://apps.ankiweb.net/index.html)
 - Self-teach Drums
-  - Currently using an Alesis Nitro Mesh electronic kit wired via MIDI -> USB to [Melodics](https://melodics.com) run on my iPad Pro. Maintaining a baseline of 1 lesson/day
+  - Currently using an Alesis Nitro Mesh electronic kit wired via MIDI -> USB to [Melodics](https://melodics.com) run on my iPad Pro. ~~Maintaining a baseline of 1 lesson/day~~ Currently on hold while I DIY a drum riser to be more mindful of my neighbors :)
 
 ## Spring 2022 Coursework
 
