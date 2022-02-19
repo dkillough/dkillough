@@ -6,7 +6,7 @@ third year computer science student at the university of texas at austin (ut)
 
 additional studies in digital arts, social media, and immersive experiences
 
-thinking about pursuing a PhD in human-computer interaction
+planning to pursue a PhD in human-computer interaction
 
 #### [Resume](https://docs.google.com/document/d/1FXz1NcMgJVjqL3nQ0yIsqa_5oouOKkEJ6UOfTG9ajCk/edit?usp=sharing)
 #### [Website](https://dkillough.com/)
