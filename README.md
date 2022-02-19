@@ -18,15 +18,15 @@ thinking about pursuing a PhD in human-computer interaction
   - [x] Development complete
   - [x] Implementation in Singapore complete
   - [x] Implementation in Austin, TX complete 
-  - [ ] Currently recording/compiling assets & footage (me) and editing (Arman) promotional video
+  - [x] Currently recording/compiling assets & footage (me) and editing (Arman) promotional video
+    - Infographic !: https://immersive.moody.utexas.edu/projects/solar-run
   - [ ] Whitepaper & findings compilation & synthesis (Neha & Sahar)
 - President, Longhorn Gaming (2021-2022 Long Session)
   - [x] Spring events schedule creation
   - [x] Spring events schedule publication
   - [x] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
-  - [ ] Essentially become HR to resolve drama between teams
-  - [ ] Enhancing crew culture, resource availability, and transparency across teams
-  - [ ] Day-to-day emails, direct messages, and resource management
+  - [x] Enhancing crew culture, resource availability, and transparency across teams
+  - [x] Day-to-day emails, direct messages, and resource management
 - Self-teach Japanese (started before Sp22 where I'm taking a class)
   - Grammar & vocab: [Tae Kim's Complete Guide](http://guidetojapanese.org/learn/complete/)
   - Kanji & vocab: [Refold JP1K](https://refold.la/japanese/deck/)
