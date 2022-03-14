@@ -8,8 +8,6 @@ additional studies in digital arts, social media, and immersive experiences
 
 planning to pursue a PhD in human-computer interaction
 
-LF software internship summer 2022!
-
 #### [Resume](https://drive.google.com/file/d/1qmn9XUCuE0ceKQLzgotBgDzOuN6RZZen/view)
 #### [Website](https://dkillough.com/)
 #### [GitLab](https://gitlab.com/dkillough)
