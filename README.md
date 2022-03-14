@@ -16,25 +16,25 @@ LF software internship summer 2022!
 
 ## Current project queue
 
-- SolAR Run, a skin cancer prevention awareness project that won the 2020-2021 UT President's Award for Global Learning 
+- SolAR Run, a skin cancer prevention awareness project that won the 2020-2021 UT President's Award for Global Learning
   - [x] Development complete
   - [x] Implementation in Singapore complete
   - [x] Implementation in Austin, TX complete 
   - [x] Currently recording/compiling assets & footage (me) and editing (Arman) promotional video
     - Infographic !: https://immersive.moody.utexas.edu/projects/solar-run
-  - [ ] Whitepaper & findings compilation & synthesis (Neha & Sahar)
-- President, Longhorn Gaming (2021-2022 Long Session)
-  - [x] Spring events schedule creation
-  - [x] Spring events schedule publication
+- President, Longhorn Gaming (2021-2022 Long Session): Ending soon
+  - [x] Events schedule creation, publication, management
   - [x] Reestablishing spring goals with all officers, team managers, and game ambassadors (community leaders) 
   - [x] Enhancing crew culture, resource availability, and transparency across teams
-  - [x] Day-to-day emails, direct messages, and resource management
+  - [x] Day-to-day emails, meetings, direct messages, and resource management
 - Self-teach Japanese (started before Sp22 where I'm taking a class)
   - Grammar & vocab: [Tae Kim's Complete Guide](http://guidetojapanese.org/learn/complete/)
   - Kanji & vocab: [Refold JP1K](https://refold.la/japanese/deck/)
   - Timed flashcards: [Anki](https://apps.ankiweb.net/index.html)
 - Self-teach Drums
-  - Currently using an Alesis Nitro Mesh electronic kit wired via MIDI -> USB to [Melodics](https://melodics.com) run on my iPad Pro. ~~Maintaining a baseline of 1 lesson/day~~ Currently on hold while I DIY a drum riser to be more mindful of my neighbors :)
+  - Currently using an Alesis Nitro Mesh electronic kit wired via MIDI -> USB to [Melodics](https://melodics.com) run on my iPad Pro. 
+  - [x] Mounted iPad to wall using 3 command hooks, so I can slide the device in and out freely
+  - [x] DIY'd a drum riser using 2x sheets of medium-density fiberboard, pipe insulation, acoustical sealant, cable ties, and 24 used tennis balls
 
 ## Spring 2022 Coursework
 
