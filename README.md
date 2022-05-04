@@ -1,6 +1,6 @@
 # Daniel "Kiiro" Killough
 
-### Seeking Summer 2022 Software Internship.
+### Seeking Summer 2022 Internship.
 
 third year computer science student at the university of texas at austin (ut)
 
