@@ -21,5 +21,5 @@ planning to pursue a PhD in human-computer interaction
 
 ## Contact me
 
-Discord: Kiiro#0001
+Discord: Kiiro#0001\
 Email: contact@dkillough.com
