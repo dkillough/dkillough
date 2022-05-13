@@ -1,6 +1,6 @@
 # Daniel "Kiiro" Killough
 
-### Still seeking Summer 2022 Internship in UX Research & Development or Software Engineering.
+### Still seeking Summer 2022 Internship in UX Research/Design/Development or Software Engineering.
 
 third year computer science student at the university of texas at austin (ut)
 \
