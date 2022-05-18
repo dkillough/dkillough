@@ -13,10 +13,8 @@ planning to pursue a PhD in human-computer interaction
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current project queue
-- Contracted as technical consultant, arduino programmer, and web developer for Roses of the Rubble, capstone project for Texas Immersive 2022 Cohort.
-  - TWO NIGHTS ONLY at dadaLab, Austin TX!
-  - [Buy tickets here](https://www.eventbrite.com/e/roses-of-the-rubble-txi-showcase-tickets-317199270557)
-- Starting summer research project; details in the works
+- Starting summer research project; narrowing down topics stage
+- Clearing out misc. project backlog i.e. Figma certification (✅) and interior decorating
 - Still seeking 2022 internship!
 
 ## Contact me
