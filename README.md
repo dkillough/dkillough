@@ -11,7 +11,7 @@ planning to pursue a PhD in human-computer interaction
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current project queue
-- Starting summer research project; currently in narrowing down topics stage
+- Starting summer research project; currently narrowing down topics
 - Clearing out misc. project backlog i.e. Figma certification (✅) and interior decorating
 - Onboarding @ Fair Worlds!
 
