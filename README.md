@@ -11,9 +11,9 @@ planning to pursue a PhD in human-computer interaction
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current project queue
-- Starting summer research project regarding AR a11y for individuals experiencing blindness/low vision
-- SWE Internship @ Fair Worlds working on NPT Backyard AR pool builder + misc. other projects
-- Clearing out misc. project backlog i.e. Figma certification (✅) and interior decorating
+- Starting summer research project regarding livestreaming a11y for individuals experiencing blindness/low vision
+- SWE Internship @ [Fair Worlds](https://www.fairworlds.com) working on in-production and upcoming XR projects 
+- Clearing out misc. project backlog i.e. Figma certification (✅) and learning drums
 
 ## Contact me
 
