@@ -14,7 +14,7 @@ planning to pursue a PhD in human-computer interaction
 - Independent research with [Dr. Amy Pavel](https://amypavel.com/) enhancing livestream a11y for blind/low vision people
 - SWE Internship @ [Fair Worlds](https://www.fairworlds.com) working on in-production and upcoming XR projects 
 - Advising buildout of Alienware Longhorn Esports Lounge at UT with Unions faculty, Longhorn Gaming staff, and Dell/Alienware representatives
-- Clearing out misc. project backlog i.e. Figma certification (✅) and learning drums
+- Clearing out misc. project backlog i.e. Figma certification (✅), reorganizing my workstation, and learning drums + 日本語
 
 ## Contact me
 
