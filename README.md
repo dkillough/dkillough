@@ -4,7 +4,7 @@ computer science student at the university of texas at austin (ut)
 \
 additional studies in digital arts, social media, and immersive experiences
 \
-planning to pursue a PhD in human-computer interaction
+applying for PhD programs regarding HCI for XR
 
 <!-- ### [Resume](https://drive.google.com/file/d/1JYGRptAwt9lruqEAUmvH7hZSloeio6OW/view) -->
 ### [Website](https://dkillough.com/)
