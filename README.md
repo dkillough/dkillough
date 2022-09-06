@@ -6,7 +6,7 @@ additional studies in digital arts, social media, and immersive experiences
 \
 starting to apply for PhD programs regarding HCI for XR
 
-### [Resume](https://drive.google.com/file/d/1tURorYROuEGiUcOReF6D9iEE-AqoRXVD/view)
+### [Resume](https://drive.google.com/file/d/1XQNgKpj7f27nfYVgPPQ7o2KsROVk_Dnu/view)
 ### [Website](https://dkillough.com/)
 ### [GitLab](https://gitlab.com/dkillough)
 
