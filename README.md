@@ -15,8 +15,7 @@ starting to apply for PhD programs regarding HCI for XR
 - Independent research with [Dr. Amy Pavel](https://amypavel.com/) enhancing livestream a11y for visually impaired people
 - SWE Internship @ [Fair Worlds](https://www.fairworlds.com) researching & developing AR apps for clients directly
 - Advising Longhorn Gaming officers & opening of Alienware Longhorn Esports Lounge at UT with Unions faculty, Longhorn Gaming volunteers, and Dell/Alienware representatives
-- Clearing out misc. project backlog i.e. Figma certification (✅), reorganizing my workstation, and trying to learn drums + 日本語
-- Trying to get better at Valorant
+- Clearing out misc. project backlog (i.e. Figma certification (✅); reorganizing my workstation; trying to learn drums, 日本語)
 
 ## Contact me
 
