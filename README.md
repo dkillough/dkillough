@@ -4,14 +4,18 @@ Research Assistant for the UT CS HCI Lab. Enhancing livestream a11y for visually
 
 computer science grad from the university of texas at austin (ut)
 \
-additional studies in digital arts, social media, and immersive experiences
-\
+additional certifications from the digital arts & (social) media bdp and the immersive institute (TXI)
 
 ### [Resume](https://drive.google.com/file/d/1XQNgKpj7f27nfYVgPPQ7o2KsROVk_Dnu/view)
 ### [Website](https://dkillough.com/)
 ### [GitLab](https://gitlab.com/dkillough)
 
-## Contact me
+## Current Project Queue
+- Reestablishing my apartment after the flood :|
+- Research Assistantship! Trying to write a publication for a spring conference deadline :)
+- Applying to be a student volunteer @ CHI23
+- Travel planning to Asia (+Europe if I get a volunteer position!) March/April
 
-Discord: Kiiro#0001\
-Email: contact at dkillough.com
+## Contact me
+Discord: `Kiiro#0001`\
+Email: `contact@dkillough.com`
