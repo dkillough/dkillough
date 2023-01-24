@@ -13,8 +13,7 @@ additional certifications from the digital arts & (social) media bdp and the imm
 ## Current Project Queue
 - Reestablishing my apartment after the flood :|
 - Research Assistantship! Trying to write a publication for a spring conference deadline :)
-- Applying to be a student volunteer @ CHI23
-- Travel planning to Asia (+Europe if I get a volunteer position!) March/April
+- Travel planning for a March trip to Asia!
 
 ## Contact me
 Discord: `Kiiro#0001`\
