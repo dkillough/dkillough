@@ -12,7 +12,7 @@ additional certifications from the digital arts & (social) media bdp and the imm
 
 ## Current Project Queue
 - Reestablishing my apartment after the flood :|
-- Research Assistantship! Trying to write a publication for a spring conference deadline :)
+- Research Assistantship! Trying to first author a publication before the end of February 😬
 - Travel planning for a March trip to Asia!
 
 ## Contact me
