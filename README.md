@@ -11,9 +11,7 @@ additional certifications from the digital arts & (social) media bdp and the imm
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current Project Queue
-- Reestablishing my apartment after the flood :|
-- Research Assistantship! Trying to first author a publication before the end of February :)
-- Travel planning for a March trip to Asia!
+- Moving to Wisconsin for my PhD :)
 
 ## Contact me
 Discord: `Kiiro#0001`\
