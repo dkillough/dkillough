@@ -27,5 +27,5 @@ additional certifications from the digital arts & (social) media bdp and the imm
 - [ ] begin phd coursework !
 
 ## Contact me
-Discord: `Kiiro#0001`\
+Discord: `@kiiro`\
 Email: `contact@dkillough.com`
