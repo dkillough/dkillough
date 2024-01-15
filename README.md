@@ -1,12 +1,5 @@
 # Daniel "Kiiro" Killough
 
----
-
-in and out of the hospital recently. apologies for delayed responses.
-
----
-
-
 Incoming Ph.D. Student @ UW-Madison's madAbility lab advised by [Dr. Yuhang Zhao](https://www.yuhangz.com)
 
 Research Assistant for the UT CS HCI Lab. Enhancing livestream a11y for viewers with visual impairments alongside [Dr. Amy Pavel](https://amypavel.com/)
@@ -20,11 +13,12 @@ additional certifications from the digital arts & (social) media bdp and the imm
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current Project Queue
-- [x] moved to madison!
-- [x] finishing touches on my camera-ready for ASSETS23 !
-- [ ] starting VR accessibility work with Tiger, James, Yuhang & co.
-- [ ] personal projects
-- [ ] begin phd coursework !
+- [x] begin phd coursework
+- [x] eyetracking a11y project w/ Ru
+- [x] synthesizing js project w/ Jack
+- [ ] TAing (wip)
+- [ ] vr a11y project (wip)
+- [ ] photo editing for [instagram](https://www.instagram.com/de.kilo/)
 
 ## Contact me
 Discord: `@kiiro`\
