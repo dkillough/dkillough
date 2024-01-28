@@ -21,5 +21,4 @@ Former research assistant for the UT CS HCI Lab @ [Amy Pavel](https://amypavel.c
 - [ ] photo editing for [instagram](https://www.instagram.com/de.kilo/)
 
 ## Contact me
-Discord: `@kiiro`\
-Email: `contact@dkillough.com`
+Email: `contact at dkillough.com`
