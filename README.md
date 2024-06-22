@@ -1,6 +1,6 @@
 # Daniel "Kiiro" Killough
 
-Incoming Ph.D. Student @ UW-Madison's madAbility lab advised by [Yuhang Zhao](https://www.yuhangz.com)
+First-year Ph.D. Student @ UW-Madison's madAbility lab advised by [Yuhang Zhao](https://www.yuhangz.com)
 
 computer science grad from the university of texas at austin (ut)
 \
@@ -16,8 +16,10 @@ Former research assistant for the UT CS HCI Lab @ [Amy Pavel](https://amypavel.c
 - [x] begin phd coursework
 - [x] eyetracking a11y project w/ Ru
 - [x] synthesizing js project w/ Jack
-- [ ] TAing (wip)
-- [ ] vr a11y project (wip)
+- [x] mr project w/ Ruijia
+- [ ] TAing
+- [ ] vr developer a11y project (slated CHI 2025)
+- [ ] vr a11y project 2 (slated CHI 2025)
 - [ ] photo editing for [instagram](https://www.instagram.com/de.kilo/)
 
 ## Contact me
