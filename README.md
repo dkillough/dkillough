@@ -2,6 +2,8 @@
 
 First-year Ph.D. Student @ UW-Madison's madAbility lab advised by [Yuhang Zhao](https://www.yuhangz.com)
 
+Awarded [2024 Summer Research Assistantship](https://www.cs.wisc.edu/summer-research-assistantship/)
+
 computer science grad from the university of texas at austin (ut)
 \
 additional certifications from the digital arts & (social) media bdp and the immersive institute (TXI)
