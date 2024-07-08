@@ -19,9 +19,9 @@ Former research assistant for the UT CS HCI Lab @ [Amy Pavel](https://amypavel.c
 - [x] eyetracking a11y project w/ Ru
 - [x] synthesizing js project w/ Jack
 - [x] mr project w/ Ruijia (awaiting conference submission)
-- [ ] TAing
+- [x] TAing
 - [ ] vr developer a11y project (slated CHI 2025 submission)
-- [ ] vr a11y project 2 (slated CHI 2025 submission)
+- [ ] cv for vr a11y (slated CHI 2025 submission)
 - [ ] photo editing for [instagram](https://www.instagram.com/de.kilo/)
 
 ## Contact me
