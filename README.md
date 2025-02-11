@@ -15,15 +15,12 @@ Former research assistant for the UT CS HCI Lab @ [Amy Pavel](https://amypavel.c
 ### [GitLab](https://gitlab.com/dkillough)
 
 ## Current Project Queue
-- [x] begin phd coursework
-- [x] eyetracking a11y project w/ Ru
-- [x] synthesizing js project w/ Jack
-- [x] mr project w/ Ruijia (awaiting conference submission)
-- [x] TAing
-- [x] vr developer a11y project (slated CHI 2025 submission)
-- [ ] cv for vr a11y (slated CHI 2025 interactivity submission)
-- [ ] photo editing for [instagram](https://www.instagram.com/de.kilo/)
-- [ ] additional projects (perpetually ongoing)
+- [ ] PhD coursework
+- [ ] TAing Computer Graphics
+- [ ] vr developer a11y project (submitting ASSETS 25 ready to go or [up on arxiv](https://arxiv.org/abs/2412.16321))
+- [x] mr project w/ Ruijia (submitted CHI 2025 LBW)
+- [x] cv for vr a11y (submitted CHI 2025 interactivity submission)
+  - [ ] full paper slated uist 2025
 
 ## Contact me
 Email: `contact at dkillough.com`
