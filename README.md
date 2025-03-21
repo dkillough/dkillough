@@ -17,9 +17,9 @@ Former research assistant for the UT CS HCI Lab @ [Amy Pavel](https://amypavel.c
 ## Current Project Queue
 - [ ] PhD coursework
 - [ ] TAing Computer Graphics
-- [ ] vr developer a11y project (submitting ASSETS 25 but [live on arxiv](https://arxiv.org/abs/2412.16321))
-- [x] mr project w/ Ruijia (submitted CHI 2025 LBW)
-- [x] cv for vr a11y (submitted CHI 2025 interactivity submission)
+- [ ] vr developer a11y project ([live on arxiv](https://arxiv.org/abs/2412.16321))
+- [x] mr project w/ Ruijia (accepted CHI 2025 LBW)
+- [x] cv for vr a11y (accepted CHI 2025 interactivity)
   - [ ] full paper slated uist 2025
 
 ## Contact me
