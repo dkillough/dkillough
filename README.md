@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=C5050C&center=true&vCenter=true&repeat=false&width=250&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF3D3D&center=true&vCenter=true&repeat=false&width=250&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
 **Ph.D. Student @ UW-Madison's [madAbility Lab](https://madability.cs.wisc.edu/)**, advised by [Yuhang Zhao](https://www.yuhangz.com)
 
@@ -45,21 +45,17 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 
 <!-- --- -->
 
-<!-- ## GitHub Stats -->
+## GitHub Stats
 
-<!-- <details>
-<summary>GitHub Stats</summary>
-<br> -->
+<details>
+<br>
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dkillough&show_icons=true&hide_border=true&bg_color=00000000&title_color=C5050C&icon_color=C5050C&text_color=888" alt="GitHub Stats" /> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkillough&theme=transparent" alt="GitHub Stats" height="165"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkillough&theme=transparent" alt="GitHub Profile Details" height="165"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dkillough&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C5050C&icon_color=C5050C" alt="GitHub Stats" height="165"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkillough&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C5050C" alt="Top Languages" height="165"/> -->
+</details>
 
-![Profile Views (2026)](https://komarev.com/ghpvc/?username=dkillough&color=C5050C&style=pixel&label=Profile+Views)
-
-<!-- </details> -->
+![Profile Views (2026)](https://komarev.com/ghpvc/?username=dkillough&color=C5050C&style=pixel&label=Profile+Views+(2026))
 
 ---
 
