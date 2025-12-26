@@ -3,23 +3,17 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF3D3D&center=true&vCenter=true&repeat=false&width=250&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
-**Ph.D. Student @ UW-Madison's [madAbility Lab](https://madability.cs.wisc.edu/)**, advised by [Yuhang Zhao](https://www.yuhangz.com)
+**3rd Year Ph.D. Student @ UW-Madison's [madAbility Lab](https://madability.cs.wisc.edu/)**, advised by [Yuhang Zhao](https://www.yuhangz.com)
 
-CS grad from UT Austin · Digital Arts & Media BDP · Immersive Institute (TXI)  
-Former research assistant at the UT CS HCI Lab with [Amy Pavel](https://amypavel.com/)
+B.S. Computer Science, UT-Austin · Digital Arts & Media Bridging Disciplines Program  
+Texas Immersive Institute (TXI) · Human-Computer Interaction (w/ [Amy Pavel](https://amypavel.com/))
+
 <!-- Quick Links Badges -->
 [![Website](https://img.shields.io/badge/Website-dkillough.com-C5050C?style=flat-square)](https://dkillough.com/)
 [![CV](https://img.shields.io/badge/CV-pdf-333?style=flat-square)](https://dkillough.com/cv)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Lu3L4HoAAAAJ&hl=en)
 
 </div>
-
----
-
-### Research Interests
-```
-Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powered Interactive Systems
-```
 
 ---
 
@@ -43,7 +37,12 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 | 📝 | January conference submissions |
 | 📝 | Organizing spring research papers |
 
-<!-- --- -->
+---
+
+## Research Interests
+Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powered Interactive Systems
+
+---
 
 ## GitHub Stats
 
@@ -52,10 +51,7 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkillough&theme=transparent" alt="GitHub Stats" height="165"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkillough&theme=transparent" alt="GitHub Profile Details" height="165"/>
-
 </details>
-
-![Profile Views (2026)](https://komarev.com/ghpvc/?username=dkillough&color=C5050C&style=pixel&label=Profile+Views+(2026))
 
 ---
 
@@ -64,3 +60,5 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 - Email: `contact at dkillough.com`
 - LinkedIn: `https://linkedin.com/in/dkillough`
 - Twitter: `https://x.com/_dekilo`
+
+![Profile Views (2026)](https://komarev.com/ghpvc/?username=dkillough&color=C5050C&style=pixel&label=Profile+Views+(2026))
