@@ -21,7 +21,7 @@ Texas Immersive Institute (TXI) · Human-Computer Interaction (w/ [Amy Pavel](ht
 
 <!-- <div align="center"> -->
 
-**Seeking research internship for Summer 2026!**
+**Seeking research internships for Summer 2026!**
 
 [![Open to Opportunities](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dkillough.com)
 
@@ -46,12 +46,12 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 
 ## GitHub Stats
 
-<details>
-<br>
+<!-- <details> -->
+<!-- <br> -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkillough&theme=transparent" alt="GitHub Stats" height="165"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkillough&theme=transparent" alt="GitHub Stats" height="165"/> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkillough&theme=transparent" alt="GitHub Profile Details" height="165"/>
-</details>
+<!-- </details> -->
 
 ---
 
