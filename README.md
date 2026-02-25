@@ -62,3 +62,11 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 - Twitter: `https://x.com/_dekilo`
 
 ![Profile Views (2026)](https://komarev.com/ghpvc/?username=dkillough&color=C5050C&style=pixel&label=Profile+Views+(2026))
+
+
+
+
+
+<a href="http://www.hat.net/abs/noclick/" ><img src="http://www.hat.net/abs/gif/noclick.gif" alt="[Don't click here!]" ></a>
+
+<small> 4562 </small>
