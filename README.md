@@ -5,7 +5,7 @@
 
 **3rd Year Ph.D. Student @ UW-Madison's [madAbility Lab](https://madability.cs.wisc.edu/)**, advised by [Yuhang Zhao](https://www.yuhangz.com)
 
-B.S. Computer Science, UT-Austin · Digital Arts & Media Bridging Disciplines Program  
+🤘B.S. Computer Science, UT-Austin · Digital Arts & Media Bridging Disciplines Program  
 Texas Immersive Institute (TXI) · Human-Computer Interaction (w/ [Amy Pavel](https://amypavel.com/))
 
 <!-- Quick Links Badges -->
