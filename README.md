@@ -31,11 +31,12 @@ Texas Immersive Institute (TXI) · Human-Computer Interaction (w/ [Amy Pavel](ht
 
 | Status | Project |
 |:------:|---------|
-| ✓ | PhD coursework |
-| 🔄 | Website updates → [dkillough.com](https://dkillough.com/) |
-| 🔄 | Personal projects |
-| ✓ | January conference submissions |
+| ✓ | CS PhD coursework! |
+| ✓ (for now) | Website updates → [dkillough.com](https://dkillough.com/) |
+| 🔄 (always) | Personal projects (perpetually) |
 | 📝 | Organizing spring research papers |
+| 🔜 | Traveling to Europe for CHI 2026! :) |
+| 🔜 | Moving to San Jose May-August to work at Google :)) |
 
 ---
 
@@ -67,6 +68,5 @@ Human-Computer Interaction · Accessibility · Immersive Technologies · AI-Powe
 
 
 
-<a href="http://www.hat.net/abs/noclick/" ><img src="http://www.hat.net/abs/gif/noclick.gif" alt="[Don't click here!]" ></a>
-
-<small> 4562 </small>
+<span><a href="http://www.hat.net/abs/noclick/" ><img src="http://www.hat.net/abs/gif/noclick.gif" alt="[Don't click here!]" ></a>
+<small> // 4562 </small> </span>
