@@ -27,16 +27,15 @@ Texas Immersive Institute (TXI) · Human-Computer Interaction (w/ [Amy Pavel](ht
 
 <!-- </div> -->
 
-### Project Queue (Winter 2025/26)
+### Project Queue (Summer 26)
 
 | Status | Project |
 |:------:|---------|
 | ✓ | CS PhD coursework! |
 | ✓ (for now) | Website updates → [dkillough.com](https://dkillough.com/) |
-| 🔄 (always) | Personal projects (perpetually) |
-| 📝 | Organizing spring research papers |
-| 🔜 | Traveling to Europe for CHI 2026! :) |
-| 🔜 | Moving to San Jose May-August to work at Google :)) |
+| 📝 | Working at Google in San Jose on Android XR! |
+| 📝 | Reading & organizing research papers |
+| 🔄 | Learning some American Sign Language |
 
 ---
 
